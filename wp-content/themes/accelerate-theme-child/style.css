@@ -49,3 +49,37 @@
   color: #45ac9d;
   text-transform: uppercase;
 }
+
+/* CASE STUDIES */
+
+.site-main .case-study {
+  padding: 80px 150px;
+  width: 100%;
+}
+
+.case-study h1 {
+  color: black;
+  font-size: 2rem;
+  font-family: "Open Sans", Arial, sans-serif;
+  margin: 10px 0;
+}
+
+.case-study h2 {
+  font-size: 1rem;
+  font-weight: normal;
+  margin: 20px 0;
+}
+
+.case-study h2:first-of-type {
+  color: grey;
+}
+
+.case-study-info {
+  width: 33%;
+  float: left;
+}
+
+.case-study-images {
+  width: 66%;
+  float: right;
+}
