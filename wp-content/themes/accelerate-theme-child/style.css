@@ -83,3 +83,8 @@
   width: 66%;
   float: right;
 }
+
+.case-study img {
+  display: block;
+  margin-bottom: 50px;
+}
